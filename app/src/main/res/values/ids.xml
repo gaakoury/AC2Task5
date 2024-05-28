@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="etNome" type="id" />
+    <item name="etCep" type="id" />
+    <item name="etLogradouro" type="id" />
+    <item name="etComplemento" type="id" />
+    <item name="etBairro" type="id" />
+    <item name="etCidade" type="id" />
+    <item name="etUf" type="id" />
+    <item name="btnSalvar" type="id" />
+</resources>
